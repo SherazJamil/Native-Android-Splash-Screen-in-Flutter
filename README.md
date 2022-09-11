@@ -1,2 +1,2 @@
-# Splash-Screen-in-Flutter-using-package-without-code
-Splash Screen in Flutter using package without code
+# Native Android Splash-Screen-in-Flutter
+Splash Screen in Flutter 
